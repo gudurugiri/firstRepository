@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="product.CaluclatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-05-02T03:44:37" hostname="WINCTRL-QEL6TMD" time="0.0">
+  <properties/>
+  <testcase name="division_Fail" classname="product.CaluclatorTest" time="0.0"/>
+  <testcase name="division_Success" classname="product.CaluclatorTest" time="0.0"/>
+  <testcase name="addition_Success" classname="product.CaluclatorTest" time="0.0"/>
+  <testcase name="subtraction_Success" classname="product.CaluclatorTest" time="0.0"/>
+  <testcase name="multiplication_Success" classname="product.CaluclatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
